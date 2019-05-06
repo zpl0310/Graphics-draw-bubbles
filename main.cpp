@@ -1,7 +1,5 @@
 
 //  main.cpp
-//  A3
-//
 //  Copyright © 2017. All rights reserved.
 //
 
