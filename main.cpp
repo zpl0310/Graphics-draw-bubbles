@@ -1,9 +1,8 @@
-//Zhengpeng Li, W1264508, COEN290 HW3
+
 //  main.cpp
 //  A3
 //
-//  Created by zhengpeng li on 11/24/17.
-//  Copyright © 2017 zhengpeng li. All rights reserved.
+//  Copyright © 2017. All rights reserved.
 //
 
 #include <iostream>
